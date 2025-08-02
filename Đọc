@@ -1,0 +1,15 @@
+Link TIME LINE tiến trình: https://docs.google.com/spreadsheets/d/1YJcHond3CrYZoffsJ2EHlvK857pS0jh7ujd736jM8E4/edit?usp=sharing
+Tên chủ đề: Ứng dụng quản lý bãi xe thông minh tích hợp đề xuất vị trí đậu, hỗ trợ nhân viên chỉ dẫn và quét biển số xe
+Mô tả tổng quan về chủ đề:tập trung xây dựng một hệ thống quản lý bãi xe thông minh giúp tối ưu hóa việc đỗ xe tại các khu vực đông phương tiện như bệnh viện, trung tâm thương mại, tòa nhà văn phòng,...
+Lý do chọn:
+- Vấn đề hiện tại: Mất thời gian tìm chỗ, nhân viên không biết chỗ trống, dễ gây ùn tắc...
+- Giải pháp đề xuất: xây dựng theo hướng ứng dụng 
+Người dùng:
++) Camera AI quét biển số
++) Cảm biến xác định chỗ trống
++)Hệ thống phần mềm đề xuất vị trí
++) sử dụng màn hình chỉ dẫn
+Admin:
++) quản lý hệ thống bãi đỗ xe
++) tự động thu phí 
+- Lợi ích mang lại: Tiết kiệm thời gian, giảm ùn tắc, nâng cao trải nghiệm khách hàng
