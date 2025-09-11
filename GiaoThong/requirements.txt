@@ -1,0 +1,10 @@
+pillow
+opencv-python
+ultralytics
+numpy
+scikit-image
+scipy
+matplotlib
+pandas
+filterpy
+easyocr
